@@ -11,3 +11,5 @@ Meu nome é Giulianna De Assis
 
 giuliannaassis5@gmail.com
 @giuliborboleta
+
+![descrição do GIF](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
